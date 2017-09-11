@@ -1,3 +1,3 @@
 import helper
 
-helper.greeting("Hello")
+helper.greeting("hello")
